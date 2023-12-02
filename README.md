@@ -1,6 +1,6 @@
-# fresh_mart
+# NeedZ India
 
-A new Flutter application.
+A grocery delivery app, designed for utmost convenience and efficiency. The app boasts a seamless and user-friendly interface for a hassle-free shopping experience. 
 
 ## Getting Started
 
