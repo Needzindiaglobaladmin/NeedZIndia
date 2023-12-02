@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642237688864",
+    "firebase_url": "https://needz-india.firebaseio.com",
+    "project_id": "needz-india",
+    "storage_bucket": "needz-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642237688864:android:58ec9e2ecd4e19c61aa045",
+        "android_client_info": {
+          "package_name": "com.needzindia.fresh_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642237688864-8i9ubc7h1js36ht6ffrakul3v34b0sb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8Oo4PDoml2z8m2ssfW_pto0a1GoIW5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642237688864-8i9ubc7h1js36ht6ffrakul3v34b0sb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
